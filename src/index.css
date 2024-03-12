@@ -1,0 +1,16 @@
+.app {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 100dvh;
+  gap: 0.5rem;
+}
+
+span {
+   color: red; 
+}
